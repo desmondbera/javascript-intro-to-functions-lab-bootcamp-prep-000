@@ -18,8 +18,7 @@ function whisper(string) {
     console.log.restore()
   })
 })
-
-
-
-
 */
+function logShout(string) {
+  console.log(string.toUpperCase());
+}
