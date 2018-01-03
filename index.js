@@ -35,7 +35,5 @@ function sayHiToGrandma(string) {
     return "YES INDEED!";
   } else (string === string.toLowerCase()) {
     return "I can't hear you!";
-  } else {
-    return "Speak up sonny!";
   }
 }
